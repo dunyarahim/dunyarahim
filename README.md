@@ -30,4 +30,4 @@ Here are a few of my featured projects:
 - GitHub Actions & deployment
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/dunyarahim/)
+- https://www.linkedin.com/in/dunya-rahim/
