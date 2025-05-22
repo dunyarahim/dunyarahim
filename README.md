@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Dunya Rahim!
 
-<!--
-**dunyarahim/dunyarahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a focus on data analysis, backend systems, and practical software tools. I enjoy building projects that combine logic, impact, and a bit of visual storytelling.
 
-Here are some ideas to get you started:
+## 📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few of my featured projects:
+
+- 🧠 [Pinterest Engagement CLI](https://github.com/dunyarahim/pinterest-engagement-cli)  
+  Analyze engagement trends using SQLite and Matplotlib
+
+- ✅ [TaskTrackr](https://github.com/dunyarahim/tasktrackr)  
+  A Python CLI to-do tracker with JSON-based persistence
+
+- 📍 [Montgomery County Crime SQL Analysis](https://github.com/dunyarahim/moco-crime-analysis)  
+  SQL project exploring crime patterns by zip code
+
+- ☀️ [5-Day Weather Forecast CLI](https://github.com/dunyarahim/weather-forecast-cli)  
+  API-based CLI tool for weather trends and visualization
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, SQL, HTML/CSS
+- **Tools:** MySQL Workbench, SQLite, Matplotlib, Git, GitHub
+- **Concepts:** CLI design, data visualization, APIs, normalization, entity relationships
+
+## 🌱 Currently Learning
+- Flask for web apps
+- Advanced SQL optimization
+- GitHub Actions & deployment
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/dunyarahim/)
