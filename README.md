@@ -6,6 +6,10 @@ I'm a passionate developer with a focus on data analysis, backend systems, and p
 
 Here are a few of my featured projects:
 
+- 💼 [Mini Portfolio Generator](https://github.com/dunyarahim/mini-portfolio-generator)  
+  A personal portfolio website built with vanilla JS, HTML, and CSS, generating all content from a JSON file. Fully responsive and hosted with GitHub Pages.  
+  **[View Live](https://dunyarahim.github.io/mini-portfolio-generator/)**
+
 - 🧠 [Pinterest Engagement CLI](https://github.com/dunyarahim/pinterest-engagement-cli)  
   Analyze engagement trends using SQLite and Matplotlib
 
