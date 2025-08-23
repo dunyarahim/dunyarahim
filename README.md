@@ -13,13 +13,13 @@ Here are a few of my featured projects:
 - 🧠 [Pinterest Engagement CLI](https://github.com/dunyarahim/Pinterest.py-Python-)  
   Analyze engagement trends using SQLite and Matplotlib
 
-- ✅ [TaskTrackr](https://github.com/dunyarahim/tasktrackr)  
+- ✅ [TaskTrackr](https://github.com/dunyarahim/TaskTrackr-Python-)  
   A Python CLI to-do tracker with JSON-based persistence
 
-- 📍 [Montgomery County Crime SQL Analysis](https://github.com/dunyarahim/moco-crime-analysis)  
+- 📍 [Montgomery County Crime SQL Analysis](https://github.com/dunyarahim/MoCo-Crime-Rate-SQL-)  
   SQL project exploring crime patterns by zip code
 
-- ☀️ [5-Day Weather Forecast CLI](https://github.com/dunyarahim/weather-forecast-cli)  
+- ☀️ [5-Day Weather Forecast CLI](https://github.com/dunyarahim/5-Day-Weather-Forecast-Python-)  
   API-based CLI tool for weather trends and visualization
 
 ## 🧰 Tech Stack
