@@ -10,7 +10,7 @@ Here are a few of my featured projects:
   A personal portfolio website built with vanilla JS, HTML, and CSS, generating all content from a JSON file. Fully responsive and hosted with GitHub Pages.  
   **[View Live](https://dunyarahim.github.io/mini-portfolio-generator/)**
 
-- 🧠 [Pinterest Engagement CLI](https://github.com/dunyarahim/pinterest-engagement-cli)  
+- 🧠 [Pinterest Engagement CLI](https://github.com/dunyarahim/Pinterest.py-Python-)  
   Analyze engagement trends using SQLite and Matplotlib
 
 - ✅ [TaskTrackr](https://github.com/dunyarahim/tasktrackr)  
