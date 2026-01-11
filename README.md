@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dunya Rahim!
+# 👋 Hi, I'm Dunya!
 
 I'm a passionate developer with a focus on data analysis, backend systems, and practical software tools. I enjoy building projects that combine logic, impact, and a bit of visual storytelling.
 
